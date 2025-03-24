@@ -11,8 +11,8 @@ createRoot(document.getElementById('root')!).render(
     <Router>
       <div className="flex flex-col min-h-screen bg-black text-white">
         <LeftPanel
-          title="Dylan Z."
-          description="Passionate about classical music, composition, physics, quizbowl, and anything else I can model on."
+          title="Leo Z."
+          description="Passionate about classical music, science, data and anything else I can model on."
         />
         <App />
         <Footer />
