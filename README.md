@@ -1,6 +1,6 @@
-# dylanz.one site
+# leoz.one site
 
-This is the code base for [dylanz.one](https://dylanz.one)
+This is the code base for [leoz.one](https://leoz.one)
 
 ## Simple Customiztion
 
